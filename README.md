@@ -20,7 +20,7 @@ I'm a Software Engineering Undergraduate from Sri Lanka. Welcome to my GitHub pr
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/matheesha-prabhath)
+- [LinkedIn](https://www.linkedin.com/in/matheesha-prabhath)
 - [Personal Website](https://about.me/matheeshaprabhath)
 - [Email](mailto:prabhathmatheesha@gmail.com)
 
