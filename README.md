@@ -16,7 +16,7 @@ I'm a Software Engineering Undergraduate from Sri Lanka. Welcome to my GitHub pr
 
 ## Languages and Tools
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheesha-prabhath&layout=compact)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheesha-prabhath&layout=compact)](https://github.com/matheesha-prabhath)
 
 ## Connect with Me
 
