@@ -4,7 +4,6 @@
 
 I'm a Software Engineering Undergraduate from Sri Lanka. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on [Current Project]
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: [prabhathmatheesha@gmail.com]
